@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PPMS", "PPMS\PPMS.vcproj", "{B353D186-6BD0-4213-92AF-5562B7F73A1A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DbTools", "DbTools\DbTools.vcproj", "{03ABEB16-21CD-435A-8AED-77209BEE92AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B353D186-6BD0-4213-92AF-5562B7F73A1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B353D186-6BD0-4213-92AF-5562B7F73A1A}.Debug|Win32.Build.0 = Debug|Win32
+		{B353D186-6BD0-4213-92AF-5562B7F73A1A}.Release|Win32.ActiveCfg = Release|Win32
+		{B353D186-6BD0-4213-92AF-5562B7F73A1A}.Release|Win32.Build.0 = Release|Win32
+		{03ABEB16-21CD-435A-8AED-77209BEE92AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03ABEB16-21CD-435A-8AED-77209BEE92AE}.Debug|Win32.Build.0 = Debug|Win32
+		{03ABEB16-21CD-435A-8AED-77209BEE92AE}.Release|Win32.ActiveCfg = Release|Win32
+		{03ABEB16-21CD-435A-8AED-77209BEE92AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
